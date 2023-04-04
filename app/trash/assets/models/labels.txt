@@ -1,0 +1,9 @@
+0 battery
+1 clothes
+2 e-waste
+3 glass
+4 light bulb
+5 metal
+6 organic
+7 paper
+8 plastic
